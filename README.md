@@ -19,3 +19,8 @@ API文档：https://pay.weixin.qq.com/wiki/doc/apiv3/apis/chapter3_1_1.shtml
 ```text
 SDK地址：github.com/sashabaranov/go-openai
 ```
+
+### [Websocket使用](https://github.com/vczs/hub/tree/main/websocket)
+```text
+SDK地址：github.com/gorilla/websocket
+```
