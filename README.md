@@ -1,4 +1,4 @@
-# golang demo hub
+# go demo hub
 
 ### [支付宝支付](https://github.com/vczs/hub/tree/main/alipay)
 ```text
