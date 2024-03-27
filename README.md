@@ -15,12 +15,18 @@ API文档：https://pay.weixin.qq.com/wiki/doc/apiv3/apis/chapter3_1_1.shtml
 商户平台：https://pay.weixin.qq.com/index.php/core/info
 ```
 
-### [ChatGPT接入](https://github.com/vczs/hub/tree/main/chat-gpt)
+### [chatGPT接入](https://github.com/vczs/go-hub/tree/main/chatGPT)
 ```text
 SDK地址：github.com/sashabaranov/go-openai
 ```
 
-### [Websocket使用](https://github.com/vczs/hub/tree/main/websocket)
+### [websocket使用](https://github.com/vczs/hub/tree/main/websocket)
 ```text
 SDK地址：github.com/gorilla/websocket
+```
+
+### [秒杀系统](https://github.com/vczs/go-hub/tree/main/flash-sale)
+```text
+SDK地址：github.com/redis/go-redis/v9
+go-redis文档：https://redis.uptrace.dev/zh
 ```
