@@ -28,3 +28,7 @@ go-redis文档：https://redis.uptrace.dev/zh
 ```text
 RSA算法是一种非对称加密算法，与对称加密算法不同的是，RSA算法有两个不同的密钥，一个是公钥，一个是私钥。
 ```
+#### [AES加密算法](https://github.com/vczs/go-hub/tree/main/aes-encrypt)
+```text
+AES技术是一种对称的分组加密技术，使用128位分组加密数据，提供比WEP/TKIPS的RC4算法更高的加密强度。
+```
