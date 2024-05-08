@@ -1,4 +1,4 @@
-#### [chatGPT接入](https://github.com/vczs/go-hub/tree/main/chatGPT)
+#### [GPT接入](https://github.com/vczs/go-hub/tree/main/chatGPT)
 ```text
 SDK地址：github.com/sashabaranov/go-openai
 ```
